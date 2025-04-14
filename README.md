@@ -1,5 +1,5 @@
 # K58KMT
-bai tap ve nha so 4 mssv k225480106088 Ta Pham Dinh Hoa mon He Quan Tri Co So Du Lieu
+bai tap ve nha so 4 mssv k225480106088 Tạ Phạm Đình Hòa môn hệ quản trị cơ sở dữ liệu
 ## bai tap 4: (sql server)
 ## yêu cầu bài toán:
  - Tạo csdl cho hệ thống TKB (đã nghe giảng, đã xem cách làm)
